@@ -1,5 +1,5 @@
 # Thermal gradients drive errors in gas exchange measurements
-### Josef Garen, Haley Branch, Isaac Borrego, Benjamin Blonder, Joseph Stinziano, and Sean Michaletz\American Geophysical Union, Annual General Meeting 2021
+### Josef Garen, Haley Branch, Isaac Borrego, Benjamin Blonder, Joseph Stinziano, and Sean Michaletz<br/>American Geophysical Union, Annual General Meeting 2021
 
 Please find a PDF copy of the poster presented at AGU 2021 (josef-garen-licor-poster-agu-2021.pdf).
 
