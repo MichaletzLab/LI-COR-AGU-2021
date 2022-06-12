@@ -2,6 +2,20 @@
 # Garen et al. 2021
 # AGU 2021
 # correct_licor6400.R
+#
+# This script provides functions for correcting leaf and air temperatures and
+# derived "downstream" quantities, such as g_sw and C_i, in the LI-COR LI-6400 
+# and LI-6400XT portable photosynthesis systems.
+#
+# The specific parameter values used in the correction functions shown below 
+# (i.e. slope and intercept) are likely to vary in a manner that is specific 
+# to an individual instrument and set of environmental conditions. We urge
+# potential users of this code to independently measure leaf and air temperatures
+# in their LI-COR instruments and environmental conditions to parameterize these
+# correction functions prior to use.
+#
+# For more details see associated forthcoming article, Garen et al., New
+# Phytologist (in press).
 
 
 # Function to correct Tleaf based on the difference between Tair and Tleaf
